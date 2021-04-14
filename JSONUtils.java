@@ -78,6 +78,9 @@ public class JSONUtils {
 		  return info;
 	  }
 	  
+	/* How use: */
+	/* createJson(Arrays.asList(key), Arrays.asList(value)); */
+        /* createJson(Arrays.asList(key, key2), Arrays.asList(value, value2)); */
 	public static JsonObject createJson(List<String> objects, List<Object> values) {
 		  JsonObject info = new JsonObject();
 		  for(int i=0; i < objects.size(); i ++)
