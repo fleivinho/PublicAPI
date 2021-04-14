@@ -1,2 +1,3 @@
 # PublicAPI
-My public repository of systems for Minecraft.
+
+Here will be .java classes and possibly projects to help other Bukkit & Bungeecord developers.
